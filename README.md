@@ -24,7 +24,8 @@
 
 ■■■■■■■■■■■■ [ 🛠 INSTALLATION ] ■■■■■■■■■■■■
 1. Clonez le repo :
-   git clone https://github.com/votreuser/BlackPyReconX.git
+   git clone https://github.com/
+dani009-gpu/BlackPyReconX.git
 
 2. Installez les dépendances :
    pip install -r requirements.txt
