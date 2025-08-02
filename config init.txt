@@ -1,0 +1,2 @@
+'shodan': 'ecbuI7ZgtzcBskl53ON55umaWzOU7R2c',
+'telegram': '8334930899:AAEKPUFtiRIjSNG3T4BCwo7B7M0WiLhf-rY'
